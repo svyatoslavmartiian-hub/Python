@@ -1,4 +1,4 @@
-'''
+
 number1 = float( input("Ведіть перше число:"))
 number2 = float( input("Ведіть перше число:"))
 number3 = float( input("Ведіть перше число:"))
@@ -22,7 +22,7 @@ print(f"Вартість поїздки скадатиме: {(expense / 100) * d
 price2 = float(input("Ведіть загальну суму:"))
 quantity = float(input("Ведіть кількість осіб:"))
 print(f"Кожна людина повина заплатити по: {(price2 * 15 / 100 + price2) / quantity}")
-'''
+
 cost = float(input("Ведіть вартість оренди за 1 день:"))
 quantity2 = float(input("Ведіть кількість днів оренди:"))
 pledge = float(input("Ведіть суму застави:"))
