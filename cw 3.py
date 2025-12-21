@@ -1,1 +1,4 @@
-print("Мої топ 5 ігор:\n1 Pubg Mobile\n2 Counter-Strike\n3 Clash of Clans\n4 Clash Royale")
+print("Мій топ 5 ігор:\n1 Pubg Mobile\n2 Counter-Strike\n3 Clash of Clans\n4 Clash Royale\n5GTA")
+print("Мій топ 3 фільмів/серіалiв:\n1 Волчонок\n2 Трансформери 2007\n3 Гаррі Поттер ")
+print("Моє хобі: Моє хобі — читання. Мені подобається брати книжку і поринати в інший світ. Коли читаю, я можу уявляти події, героїв і місця, про які йдеться в книзі. ")
+
