@@ -97,10 +97,3 @@ elif number12 >=15 and number13 < 25:
       print("Тепло")
 elif number13 > 25:
       print("Спекотно")
-
-
- 
-      
-
-
-
