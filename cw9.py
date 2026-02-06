@@ -28,34 +28,34 @@
 
 # n4
 
-# num1 = int(input("Ведіть перше число: "))
-# num2 = int(input("Ведіть друге число: "))
-# num3 = int(input("Ведіть порядок діапазона (1 - зростаючий, 2 - спадаючий) "))
-# num4 = num2
-# while num4 >= num1:
-#     if num3 == 2:
-#         print(f"{num4}")
-#     num4 -=1 
+num1 = int(input("Ведіть перше число: "))
+num2 = int(input("Ведіть друге число: "))
+num3 = int(input("Ведіть порядок діапазона (1 - зростаючий, 2 - спадаючий) "))
+num4 = num2
+while num4 >= num1:
+    if num3 == 2:
+        print(f"{num4}")
+    num4 -=1 
 
-# num5 = int(input("Ведіть перше число: "))
-# num6 = int(input("Ведіть друге число: "))
-# num7 = int(input("Ведіть порядок діапазона (1 - зростаючий, 2 - спадаючий) "))
-# num8 = num5
-# while num8 <= num2:
-#     if num7 == 1:
-#         print(f"{num8}")
-#     num8 +=1 
+num5 = int(input("Ведіть перше число: "))
+num6 = int(input("Ведіть друге число: "))
+num7 = int(input("Ведіть порядок діапазона (1 - зростаючий, 2 - спадаючий) "))
+num8 = num5
+while num8 <= num2:
+    if num7 == 1:
+        print(f"{num8}")
+    num8 +=1 
 
 # n5
 
 
 
-num1 = int(input("Введіть перше число: "))
-num2 = int(input("Введіть друге число: "))
+# num1 = int(input("Введіть перше число: "))
+# num2 = int(input("Введіть друге число: "))
 
-# нормалізація меж
-if num1 > num2:
-    num1, num2 = num2, num1\
+# # нормалізація меж
+# if num1 > num2:
+#     num1, num2 = num2, num1\
     
 
 
