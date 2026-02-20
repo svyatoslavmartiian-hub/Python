@@ -1,3 +1,8 @@
+# Програмування це - це створення програмного коду, програмного забеспечення.
+# 1.Аналіз задачі
+# 2.
+# 3.Написання коду 
+# 4.Тестування та виправлення помилок
 # Тип даних - Харакеристика даних, що визначає діапазон значень
 # та набір операцій
 # ---------------------
@@ -8,10 +13,15 @@
 # str - текст
 # range  - генератор послідовності чисел
 # type - інформація про інший тип даних.
+# NoneType - 	Відсутність значення
+# list - Списки
+
 
 # intType = type(10)
 # print(intType.__name__)
 # print(type(intType))
+
+# Змінна - іменованна область пам'яті яка зберігає дані які ми можемо використовувати в коді
 
 # Умовні конструкції - це конструкція в мові програмуванні яка дозволяє виконувати розгалуженні алгоритми.
 
@@ -19,13 +29,17 @@
 
 # Алгоритм – це чітка, покрокова послідовність дій.
 
-# Цикл  це алгоритмічна структура, що дозволяє виконувати
+# Цикл  це алгоритмічна структура, що дозволяє виконувати - 
 
-# одну й ту саму послідовність дій кілька разів.
+# - одну й ту саму послідовність дій кілька разів.
 
-# Списки — це структури даних, які використовуються для зберігання об'єктів різних типів.рпнпннен
+# Списки — це структури даних, які використовуються для зберігання об'єктів різних типів, які можна змінювати.
 
+# Кортеж - це структури даних, які використовуються для зберігання об'єктів різних типів, які не можна змінювати.
 
+# Колекція - це спеціальний тип об’єкта, який зберігає набір елементів і дозволяє з ними працювати.
+
+# Словники - це колекція,
 
 # collection = list()  # функція конструктор
 # collection = []
@@ -82,47 +96,47 @@
 
 
 
-fruits = ['avocado', 'apple', 'orange', 'lemon', 'pear']
+# fruits = ['avocado', 'apple', 'orange', 'lemon', 'pear']
 
-print(', '.join(fruits))
+# print(', '.join(fruits))
 
-fruits.append('ananas')
-print(', '.join(fruits))
+# fruits.append('ananas')
+# print(', '.join(fruits))
 
-fruits.extend(['mandarin', 'grapefruit'])
-print(', '.join(fruits))
+# fruits.extend(['mandarin', 'grapefruit'])
+# print(', '.join(fruits))
 
-fruits.insert(4, 'mango')
-print(', '.join(fruits))
-
-
-fruits_copy = fruits.copy()
-fruits_copy.append('orange')
-print(fruits_copy)
-print(fruits)
+# fruits.insert(4, 'mango')
+# print(', '.join(fruits))
 
 
-fruits.sort()
-print(fruits)
+# fruits_copy = fruits.copy()
+# fruits_copy.append('orange')
+# print(fruits_copy)
+# print(fruits)
 
-fruits.reverse()
-print(fruits)
 
-list1 = [2,3,4]
-list2 = [5,6,7]
+# fruits.sort()
+# print(fruits)
 
-result = list1 + list2
-print(result)
+# fruits.reverse()
+# print(fruits)
 
-print(result * 3)list2d = [ 
-    [1,2,3], 
-    [4,5,6] 
-]
+# list1 = [2,3,4]
+# list2 = [5,6,7]
 
-print(list2d[0])
-print(list2d[0][1])
+# result = list1 + list2
+# print(result)
 
-for i in list2d:
-    for j in i:
-        print(j, end=' ')
-    print()
+# print(result * 3)list2d = [ 
+#     [1,2,3], 
+#     [4,5,6] 
+# ]
+
+# print(list2d[0])
+# print(list2d[0][1])
+
+# for i in list2d:
+#     for j in i:
+#         print(j, end=' ')
+#     print()
