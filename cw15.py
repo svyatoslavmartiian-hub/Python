@@ -1,26 +1,26 @@
-contacts = {
-    "Антон" : "034987594373",
-    "Анастасія" : "438648362790",
-    "Сергій" : "7938459435789"
-}
+# contacts = {
+#     "Антон" : "034987594373",
+#     "Анастасія" : "438648362790",
+#     "Сергій" : "7938459435789"
+# }
 
-print(contacts["Антон"])
-contacts["Анастасія"] = "345678908434"
-print(contacts["Анастасія"])
-contacts["Кирило"] = "23456776654509"
-print(contacts)
+# print(contacts["Антон"])
+# contacts["Анастасія"] = "345678908434"
+# print(contacts["Анастасія"])
+# contacts["Кирило"] = "23456776654509"
+# print(contacts)
 
 
-contacts.update("Катя" : " 345678900998")
-contacts.update([])
-print(contacts)
+# contacts.update("Катя" : " 345678900998")
+# contacts.update([])
+# print(contacts)
 
-contacts.pop("Антон")
-print(contacts)
-contacts.popitem()
-print(contacts)
-contacts.clear()
-print(contacts)
+# contacts.pop("Антон")
+# print(contacts)
+# contacts.popitem()
+# print(contacts)
+# contacts.clear()
+# print(contacts)
 
 
 #  new_dictionary = dict()
