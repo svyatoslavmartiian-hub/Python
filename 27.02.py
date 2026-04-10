@@ -72,3 +72,54 @@
 
 # print(is_lucky_number(123420))
 # print(is_lucky_number(723422)) 
+
+
+# 1
+
+# num1 = int(input("Число 1 "))
+# num2 = int(input("Число 2 "))
+# num3 = int(input("Число 3 "))
+
+# print(f"{num1} + {num2} + {num3} = {num1 + num2 + num3}")
+# print(f"{num1} * {num2} * {num3} = {num1 * num2 * num3}")
+
+# 2
+
+# num1 = int(input("Перша діагональ "))
+# num2 = int(input("Друга діагональ "))
+
+# print(f"Площа ромба = {num1 * num2 / 2}")
+ 
+# 3
+
+# num1 = int(input("Ведіть свою зарплату  "))
+# num2 = int(input("Ведіть суму платежу за кредит "))
+# num3 = int(input("Ведіть заборгованість за комунальні послуги"))
+
+# print(f"Залишок: = {num1 - num2 - num3}")
+
+# 4
+
+# num1 = int(input("Ведіть відстань у км "))
+# num2 = int(input("Ведіть витрату "))
+# num3 = int(input("Ведіть ціну за бензин"))
+
+# print(f"Вартість: = {num1 / 100 * num2 * num3}")
+
+# 5
+
+# num1 = int(input("Ведіть загальну суму "))
+# num2 = int(input("Ведіть кількість осіб "))
+
+# print(f"Кожен має заплотити: = {(num1 / 100 * 15 + num1) / num2}")
+
+# 6
+
+
+# num1 = int(input("Ведіть ціну за день "))
+# num2 = int(input("Ведіть кількість днів "))
+# num3 = int(input("Ведіть суму застави "))
+
+# print(f"Загальна сума {num1 * num2 + num3}")
+# print(f"Сума після повернення  {num1 * num2}")
+# print(f"Ціна за один день {num1}")

@@ -1,3 +1,0 @@
-вівів& C:/Users/Admin2/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Admin2/Desktop/Python/hw20.03.py
-віві& C:/Users/Admin2/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Admin2/Desktop/Python/hw20.03.py
-іі& C:/Users/Admin2/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Admin2/Desktop/Python/hw20.03.py
