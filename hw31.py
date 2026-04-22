@@ -82,20 +82,20 @@ import turtle
 
 # 3
 
-# turtle.speed(0) 
-# turtle.colormode(255) 
+turtle.speed(0) 
+turtle.colormode(255) 
 
-# for i in range(36):
+for i in range(36):
     
-#     c_1 = random.randint(0, 255)
-#     c_2 = random.randint(0, 255)
-#     c_3 = random.randint(0, 255)
-#     turtle.pencolor(c_1, c_2, c_3)
+    c_1 = random.randint(0, 255)
+    c_2 = random.randint(0, 255)
+    c_3 = random.randint(0, 255)
+    turtle.pencolor(c_1, c_2, c_3)
     
-#     for side in range(4):
-#         turtle.forward(100)
-#         turtle.left(90)
+    for side in range(4):
+        turtle.forward(100)
+        turtle.left(90)
     
-#     turtle.left(10)
+    turtle.left(10)
 
-# turtle.done()
+turtle.done()
