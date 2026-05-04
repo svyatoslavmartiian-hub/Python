@@ -79,14 +79,23 @@
 # print(total_sum)
 
 
-input_data = input("Ведіть чілі числа через пробіл: ")
-numbers = [int(x) for x in input_data.split()]
+# input_data = input("Ведіть чілі числа через пробіл: ")
+# numbers = [int(x) for x in input_data.split()]
 
-index = 0
-events_index = []
-for i in numbers: 
-    if i % 2 ==0:
-        index = numbers.index(i)
-        events_index
+# index = 0
+# events_index = []
+# for i in numbers: 
+#     if i % 2 == 0:
+#         events_index.append(index)
+#     index += 1
 
-print(index)
+# print(events_index)
+
+
+
+# input_data = input("Ведіть чілі числа через пробіл: ")
+# numbers = [int(x) for x in input_data.split()]
+
+# new_numbers = list(set(numbers))
+
+# print(new_numbers)
